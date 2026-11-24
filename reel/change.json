@@ -1,0 +1,19 @@
+{
+  "hook": "Wer nicht {GOLD}transformiert{WHITE},\\Nmuss restrukturieren.",
+  "hook_dur": 3.6,
+  "word_fixes": [{"t": 99.84, "from": "in", "to": "den"}],
+  "pieces": [
+    [49.64, 52.12, "crop", {}],
+    [79.60, 86.00, "crop", {"h": 960}],
+    [32.20, 40.34, "crop", {"h": 830, "max_bottom": 830}],
+    [40.34, 42.05, "crop", {"h": 860}],
+    [42.05, 43.20, "fit", {}],
+    [86.56, 93.30, "crop", {}],
+    [93.30, 101.30, "fit", {}],
+    [101.30, 110.28, "crop", {"h": 930, "max_right": 1640, "max_bottom": 930}],
+    [110.28, 113.88, "crop", {"h": 860, "max_right": 1640, "max_bottom": 930}],
+    [113.88, 118.05, "crop", {"fixed_cx": 960, "h": 800, "y0": 140}],
+    [118.05, 125.00, "crop", {}],
+    [125.03, 132.60, "fit", {"endcard": true}]
+  ]
+}

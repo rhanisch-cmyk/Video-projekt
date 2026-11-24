@@ -1,0 +1,163 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter Black,84,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,7,4,2,70,70,520,1
+Style: Hook,Inter Black,78,&H00FFFFFF,&H00FFFFFF,&H50000000,&HA0000000,-1,0,0,0,100,100,0,0,3,22,0,8,60,60,190,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:03.60,Hook,,0,0,0,,{\fad(150,250)}Wer lang genug {\c&H0000B7F5&}dabei bleibt{\c&H00FFFFFF&},\Nder schafft das.
+Dialogue: 0,0:00:00.18,0:00:01.14,Cap,,0,0,0,,{\c&H0000B7F5&}sobald{\c&H00FFFFFF&} wir etwas
+Dialogue: 0,0:00:01.14,0:00:01.30,Cap,,0,0,0,,sobald {\c&H0000B7F5&}wir{\c&H00FFFFFF&} etwas
+Dialogue: 0,0:00:01.30,0:00:01.50,Cap,,0,0,0,,sobald wir {\c&H0000B7F5&}etwas{\c&H00FFFFFF&}
+Dialogue: 0,0:00:01.50,0:00:02.98,Cap,,0,0,0,,{\c&H0000B7F5&}starten,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:02.98,0:00:03.02,Cap,,0,0,0,,{\c&H0000B7F5&}dann{\c&H00FFFFFF&} ist es etwas
+Dialogue: 0,0:00:03.02,0:00:03.12,Cap,,0,0,0,,dann {\c&H0000B7F5&}ist{\c&H00FFFFFF&} es etwas
+Dialogue: 0,0:00:03.12,0:00:03.30,Cap,,0,0,0,,dann ist {\c&H0000B7F5&}es{\c&H00FFFFFF&} etwas
+Dialogue: 0,0:00:03.30,0:00:03.64,Cap,,0,0,0,,dann ist es {\c&H0000B7F5&}etwas{\c&H00FFFFFF&}
+Dialogue: 0,0:00:03.64,0:00:04.34,Cap,,0,0,0,,{\c&H0000B7F5&}holprig.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:04.34,0:00:04.50,Cap,,0,0,0,,{\c&H0000B7F5&}Ich{\c&H00FFFFFF&} kann mich noch
+Dialogue: 0,0:00:04.50,0:00:04.56,Cap,,0,0,0,,Ich {\c&H0000B7F5&}kann{\c&H00FFFFFF&} mich noch
+Dialogue: 0,0:00:04.56,0:00:04.64,Cap,,0,0,0,,Ich kann {\c&H0000B7F5&}mich{\c&H00FFFFFF&} noch
+Dialogue: 0,0:00:04.64,0:00:04.76,Cap,,0,0,0,,Ich kann mich {\c&H0000B7F5&}noch{\c&H00FFFFFF&}
+Dialogue: 0,0:00:04.76,0:00:05.10,Cap,,0,0,0,,{\c&H0000B7F5&}erinnern{\c&H00FFFFFF&} an Google
+Dialogue: 0,0:00:05.10,0:00:05.72,Cap,,0,0,0,,erinnern {\c&H0000B7F5&}an{\c&H00FFFFFF&} Google
+Dialogue: 0,0:00:05.72,0:00:06.06,Cap,,0,0,0,,erinnern an {\c&H0000B7F5&}Google{\c&H00FFFFFF&}
+Dialogue: 0,0:00:06.06,0:00:06.84,Cap,,0,0,0,,{\c&H0000B7F5&}Dokumente,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:06.84,0:00:07.56,Cap,,0,0,0,,{\c&H0000B7F5&}wie{\c&H00FFFFFF&} die Google Docs
+Dialogue: 0,0:00:07.56,0:00:08.56,Cap,,0,0,0,,wie {\c&H0000B7F5&}die{\c&H00FFFFFF&} Google Docs
+Dialogue: 0,0:00:08.56,0:00:08.82,Cap,,0,0,0,,wie die {\c&H0000B7F5&}Google{\c&H00FFFFFF&} Docs
+Dialogue: 0,0:00:08.82,0:00:09.53,Cap,,0,0,0,,wie die Google {\c&H0000B7F5&}Docs{\c&H00FFFFFF&}
+Dialogue: 0,0:00:09.59,0:00:09.67,Cap,,0,0,0,,{\c&H0000B7F5&}habe{\c&H00FFFFFF&} ich,
+Dialogue: 0,0:00:09.67,0:00:10.68,Cap,,0,0,0,,habe {\c&H0000B7F5&}ich,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:10.71,0:00:10.87,Cap,,0,0,0,,{\c&H0000B7F5&}ich{\c&H00FFFFFF&} und viele andere
+Dialogue: 0,0:00:10.87,0:00:10.99,Cap,,0,0,0,,ich {\c&H0000B7F5&}und{\c&H00FFFFFF&} viele andere
+Dialogue: 0,0:00:10.99,0:00:11.21,Cap,,0,0,0,,ich und {\c&H0000B7F5&}viele{\c&H00FFFFFF&} andere
+Dialogue: 0,0:00:11.21,0:00:11.43,Cap,,0,0,0,,ich und viele {\c&H0000B7F5&}andere{\c&H00FFFFFF&}
+Dialogue: 0,0:00:11.43,0:00:11.67,Cap,,0,0,0,,{\c&H0000B7F5&}das{\c&H00FFFFFF&} immer mit Microsoft
+Dialogue: 0,0:00:11.67,0:00:11.83,Cap,,0,0,0,,das {\c&H0000B7F5&}immer{\c&H00FFFFFF&} mit Microsoft
+Dialogue: 0,0:00:11.83,0:00:12.59,Cap,,0,0,0,,das immer {\c&H0000B7F5&}mit{\c&H00FFFFFF&} Microsoft
+Dialogue: 0,0:00:12.59,0:00:13.31,Cap,,0,0,0,,das immer mit {\c&H0000B7F5&}Microsoft{\c&H00FFFFFF&}
+Dialogue: 0,0:00:13.31,0:00:13.93,Cap,,0,0,0,,{\c&H0000B7F5&}Office{\c&H00FFFFFF&} verglichen,
+Dialogue: 0,0:00:13.93,0:00:14.51,Cap,,0,0,0,,Office {\c&H0000B7F5&}verglichen,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:14.51,0:00:14.55,Cap,,0,0,0,,{\c&H0000B7F5&}das{\c&H00FFFFFF&} heißt mit Excel,
+Dialogue: 0,0:00:14.55,0:00:14.69,Cap,,0,0,0,,das {\c&H0000B7F5&}heißt{\c&H00FFFFFF&} mit Excel,
+Dialogue: 0,0:00:14.69,0:00:14.89,Cap,,0,0,0,,das heißt {\c&H0000B7F5&}mit{\c&H00FFFFFF&} Excel,
+Dialogue: 0,0:00:14.89,0:00:15.31,Cap,,0,0,0,,das heißt mit {\c&H0000B7F5&}Excel,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:15.31,0:00:15.39,Cap,,0,0,0,,{\c&H0000B7F5&}Word{\c&H00FFFFFF&} und so weiter.
+Dialogue: 0,0:00:15.39,0:00:15.57,Cap,,0,0,0,,Word {\c&H0000B7F5&}und{\c&H00FFFFFF&} so weiter.
+Dialogue: 0,0:00:15.57,0:00:15.69,Cap,,0,0,0,,Word und {\c&H0000B7F5&}so{\c&H00FFFFFF&} weiter.
+Dialogue: 0,0:00:15.69,0:00:16.02,Cap,,0,0,0,,Word und so {\c&H0000B7F5&}weiter.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:16.02,0:00:16.42,Cap,,0,0,0,,{\c&H0000B7F5&}Und{\c&H00FFFFFF&} da war es
+Dialogue: 0,0:00:16.42,0:00:16.54,Cap,,0,0,0,,Und {\c&H0000B7F5&}da{\c&H00FFFFFF&} war es
+Dialogue: 0,0:00:16.54,0:00:16.64,Cap,,0,0,0,,Und da {\c&H0000B7F5&}war{\c&H00FFFFFF&} es
+Dialogue: 0,0:00:16.64,0:00:16.80,Cap,,0,0,0,,Und da war {\c&H0000B7F5&}es{\c&H00FFFFFF&}
+Dialogue: 0,0:00:16.80,0:00:17.20,Cap,,0,0,0,,{\c&H0000B7F5&}definitiv{\c&H00FFFFFF&} so,
+Dialogue: 0,0:00:17.20,0:00:17.52,Cap,,0,0,0,,definitiv {\c&H0000B7F5&}so,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:17.52,0:00:17.62,Cap,,0,0,0,,{\c&H0000B7F5&}dass{\c&H00FFFFFF&} es genau in
+Dialogue: 0,0:00:17.62,0:00:17.74,Cap,,0,0,0,,dass {\c&H0000B7F5&}es{\c&H00FFFFFF&} genau in
+Dialogue: 0,0:00:17.74,0:00:17.92,Cap,,0,0,0,,dass es {\c&H0000B7F5&}genau{\c&H00FFFFFF&} in
+Dialogue: 0,0:00:17.92,0:00:18.14,Cap,,0,0,0,,dass es genau {\c&H0000B7F5&}in{\c&H00FFFFFF&}
+Dialogue: 0,0:00:18.14,0:00:18.28,Cap,,0,0,0,,{\c&H0000B7F5&}dieser{\c&H00FFFFFF&} Phase,
+Dialogue: 0,0:00:18.28,0:00:18.96,Cap,,0,0,0,,dieser {\c&H0000B7F5&}Phase,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:18.96,0:00:19.12,Cap,,0,0,0,,{\c&H0000B7F5&}da{\c&H00FFFFFF&} war es zum
+Dialogue: 0,0:00:19.12,0:00:19.28,Cap,,0,0,0,,da {\c&H0000B7F5&}war{\c&H00FFFFFF&} es zum
+Dialogue: 0,0:00:19.28,0:00:19.42,Cap,,0,0,0,,da war {\c&H0000B7F5&}es{\c&H00FFFFFF&} zum
+Dialogue: 0,0:00:19.42,0:00:19.64,Cap,,0,0,0,,da war es {\c&H0000B7F5&}zum{\c&H00FFFFFF&}
+Dialogue: 0,0:00:19.64,0:00:20.16,Cap,,0,0,0,,{\c&H0000B7F5&}Vergessen,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:20.16,0:00:20.46,Cap,,0,0,0,,auf {\c&H0000B7F5&}Google{\c&H00FFFFFF&} zu arbeiten.
+Dialogue: 0,0:00:20.46,0:00:20.76,Cap,,0,0,0,,auf Google {\c&H0000B7F5&}zu{\c&H00FFFFFF&} arbeiten.
+Dialogue: 0,0:00:20.76,0:00:21.13,Cap,,0,0,0,,auf Google zu {\c&H0000B7F5&}arbeiten.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:21.13,0:00:21.49,Cap,,0,0,0,,{\c&H0000B7F5&}Also{\c&H00FFFFFF&} richtig viele
+Dialogue: 0,0:00:21.49,0:00:21.83,Cap,,0,0,0,,Also {\c&H0000B7F5&}richtig{\c&H00FFFFFF&} viele
+Dialogue: 0,0:00:21.83,0:00:22.03,Cap,,0,0,0,,Also richtig {\c&H0000B7F5&}viele{\c&H00FFFFFF&}
+Dialogue: 0,0:00:22.03,0:00:22.37,Cap,,0,0,0,,{\c&H0000B7F5&}Probleme.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:22.37,0:00:22.63,Cap,,0,0,0,,{\c&H0000B7F5&}So,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:22.63,0:00:22.77,Cap,,0,0,0,,{\c&H0000B7F5&}irgendwann{\c&H00FFFFFF&} mal kommt
+Dialogue: 0,0:00:22.77,0:00:22.97,Cap,,0,0,0,,irgendwann {\c&H0000B7F5&}mal{\c&H00FFFFFF&} kommt
+Dialogue: 0,0:00:22.97,0:00:23.13,Cap,,0,0,0,,irgendwann mal {\c&H0000B7F5&}kommt{\c&H00FFFFFF&}
+Dialogue: 0,0:00:23.13,0:00:23.31,Cap,,0,0,0,,{\c&H0000B7F5&}der{\c&H00FFFFFF&} Punkt,
+Dialogue: 0,0:00:23.31,0:00:23.94,Cap,,0,0,0,,der {\c&H0000B7F5&}Punkt,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:24.23,0:00:24.35,Cap,,0,0,0,,{\c&H0000B7F5&}da{\c&H00FFFFFF&} ist es viel,
+Dialogue: 0,0:00:24.35,0:00:24.47,Cap,,0,0,0,,da {\c&H0000B7F5&}ist{\c&H00FFFFFF&} es viel,
+Dialogue: 0,0:00:24.47,0:00:24.63,Cap,,0,0,0,,da ist {\c&H0000B7F5&}es{\c&H00FFFFFF&} viel,
+Dialogue: 0,0:00:24.63,0:00:24.99,Cap,,0,0,0,,da ist es {\c&H0000B7F5&}viel,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:24.99,0:00:25.52,Cap,,0,0,0,,viel {\c&H0000B7F5&}besser.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:25.91,0:00:26.15,Cap,,0,0,0,,{\c&H0000B7F5&}Heute{\c&H00FFFFFF&} arbeite ich
+Dialogue: 0,0:00:26.15,0:00:26.43,Cap,,0,0,0,,Heute {\c&H0000B7F5&}arbeite{\c&H00FFFFFF&} ich
+Dialogue: 0,0:00:26.43,0:00:26.55,Cap,,0,0,0,,Heute arbeite {\c&H0000B7F5&}ich{\c&H00FFFFFF&}
+Dialogue: 0,0:00:26.55,0:00:26.75,Cap,,0,0,0,,{\c&H0000B7F5&}nur{\c&H00FFFFFF&} mehr über diese
+Dialogue: 0,0:00:26.75,0:00:27.39,Cap,,0,0,0,,nur {\c&H0000B7F5&}mehr{\c&H00FFFFFF&} über diese
+Dialogue: 0,0:00:27.39,0:00:27.87,Cap,,0,0,0,,nur mehr {\c&H0000B7F5&}über{\c&H00FFFFFF&} diese
+Dialogue: 0,0:00:27.87,0:00:28.09,Cap,,0,0,0,,nur mehr über {\c&H0000B7F5&}diese{\c&H00FFFFFF&}
+Dialogue: 0,0:00:28.09,0:00:28.89,Cap,,0,0,0,,{\c&H0000B7F5&}Plattformen.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:28.89,0:00:29.09,Cap,,0,0,0,,{\c&H0000B7F5&}Und{\c&H00FFFFFF&} so geht es
+Dialogue: 0,0:00:29.09,0:00:29.19,Cap,,0,0,0,,Und {\c&H0000B7F5&}so{\c&H00FFFFFF&} geht es
+Dialogue: 0,0:00:29.19,0:00:29.35,Cap,,0,0,0,,Und so {\c&H0000B7F5&}geht{\c&H00FFFFFF&} es
+Dialogue: 0,0:00:29.35,0:00:29.51,Cap,,0,0,0,,Und so geht {\c&H0000B7F5&}es{\c&H00FFFFFF&}
+Dialogue: 0,0:00:29.51,0:00:29.95,Cap,,0,0,0,,{\c&H0000B7F5&}mit{\c&H00FFFFFF&} allen Prozessen.
+Dialogue: 0,0:00:29.95,0:00:30.37,Cap,,0,0,0,,mit {\c&H0000B7F5&}allen{\c&H00FFFFFF&} Prozessen.
+Dialogue: 0,0:00:30.37,0:00:30.80,Cap,,0,0,0,,mit allen {\c&H0000B7F5&}Prozessen.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:30.80,0:00:30.90,Cap,,0,0,0,,{\c&H0000B7F5&}Wir{\c&H00FFFFFF&} haben nur das
+Dialogue: 0,0:00:30.90,0:00:31.08,Cap,,0,0,0,,Wir {\c&H0000B7F5&}haben{\c&H00FFFFFF&} nur das
+Dialogue: 0,0:00:31.08,0:00:31.24,Cap,,0,0,0,,Wir haben {\c&H0000B7F5&}nur{\c&H00FFFFFF&} das
+Dialogue: 0,0:00:31.24,0:00:31.36,Cap,,0,0,0,,Wir haben nur {\c&H0000B7F5&}das{\c&H00FFFFFF&}
+Dialogue: 0,0:00:31.36,0:00:31.82,Cap,,0,0,0,,{\c&H0000B7F5&}Problem,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:31.82,0:00:31.92,Cap,,0,0,0,,{\c&H0000B7F5&}dass{\c&H00FFFFFF&} genau in dieser
+Dialogue: 0,0:00:31.92,0:00:32.10,Cap,,0,0,0,,dass {\c&H0000B7F5&}genau{\c&H00FFFFFF&} in dieser
+Dialogue: 0,0:00:32.10,0:00:32.34,Cap,,0,0,0,,dass genau {\c&H0000B7F5&}in{\c&H00FFFFFF&} dieser
+Dialogue: 0,0:00:32.34,0:00:32.58,Cap,,0,0,0,,dass genau in {\c&H0000B7F5&}dieser{\c&H00FFFFFF&}
+Dialogue: 0,0:00:32.58,0:00:33.04,Cap,,0,0,0,,{\c&H0000B7F5&}Phase,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:33.04,0:00:33.26,Cap,,0,0,0,,{\c&H0000B7F5&}in{\c&H00FFFFFF&} der wir etwas
+Dialogue: 0,0:00:33.26,0:00:33.40,Cap,,0,0,0,,in {\c&H0000B7F5&}der{\c&H00FFFFFF&} wir etwas
+Dialogue: 0,0:00:33.40,0:00:33.78,Cap,,0,0,0,,in der {\c&H0000B7F5&}wir{\c&H00FFFFFF&} etwas
+Dialogue: 0,0:00:33.78,0:00:34.06,Cap,,0,0,0,,in der wir {\c&H0000B7F5&}etwas{\c&H00FFFFFF&}
+Dialogue: 0,0:00:34.06,0:00:34.54,Cap,,0,0,0,,{\c&H0000B7F5&}verändern{\c&H00FFFFFF&} wollen
+Dialogue: 0,0:00:34.54,0:00:34.76,Cap,,0,0,0,,verändern {\c&H0000B7F5&}wollen{\c&H00FFFFFF&}
+Dialogue: 0,0:00:34.76,0:00:34.98,Cap,,0,0,0,,{\c&H0000B7F5&}in{\c&H00FFFFFF&} unseren Unternehmen,
+Dialogue: 0,0:00:34.98,0:00:35.20,Cap,,0,0,0,,in {\c&H0000B7F5&}unseren{\c&H00FFFFFF&} Unternehmen,
+Dialogue: 0,0:00:35.20,0:00:35.93,Cap,,0,0,0,,in unseren {\c&H0000B7F5&}Unternehmen,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:35.93,0:00:35.97,Cap,,0,0,0,,{\c&H0000B7F5&}dass{\c&H00FFFFFF&} in der Phase
+Dialogue: 0,0:00:35.97,0:00:36.13,Cap,,0,0,0,,dass {\c&H0000B7F5&}in{\c&H00FFFFFF&} der Phase
+Dialogue: 0,0:00:36.13,0:00:36.39,Cap,,0,0,0,,dass in {\c&H0000B7F5&}der{\c&H00FFFFFF&} Phase
+Dialogue: 0,0:00:36.39,0:00:37.01,Cap,,0,0,0,,dass in der {\c&H0000B7F5&}Phase{\c&H00FFFFFF&}
+Dialogue: 0,0:00:37.01,0:00:37.59,Cap,,0,0,0,,{\c&H0000B7F5&}das{\c&H00FFFFFF&} Alte noch immer
+Dialogue: 0,0:00:37.59,0:00:38.25,Cap,,0,0,0,,das {\c&H0000B7F5&}Alte{\c&H00FFFFFF&} noch immer
+Dialogue: 0,0:00:38.25,0:00:38.55,Cap,,0,0,0,,das Alte {\c&H0000B7F5&}noch{\c&H00FFFFFF&} immer
+Dialogue: 0,0:00:38.55,0:00:38.85,Cap,,0,0,0,,das Alte noch {\c&H0000B7F5&}immer{\c&H00FFFFFF&}
+Dialogue: 0,0:00:38.85,0:00:39.11,Cap,,0,0,0,,{\c&H0000B7F5&}besser{\c&H00FFFFFF&} funktioniert,
+Dialogue: 0,0:00:39.11,0:00:39.65,Cap,,0,0,0,,besser {\c&H0000B7F5&}funktioniert,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:39.65,0:00:39.75,Cap,,0,0,0,,{\c&H0000B7F5&}als{\c&H00FFFFFF&} wie das Neue.
+Dialogue: 0,0:00:39.75,0:00:39.87,Cap,,0,0,0,,als {\c&H0000B7F5&}wie{\c&H00FFFFFF&} das Neue.
+Dialogue: 0,0:00:39.87,0:00:40.03,Cap,,0,0,0,,als wie {\c&H0000B7F5&}das{\c&H00FFFFFF&} Neue.
+Dialogue: 0,0:00:40.03,0:00:40.74,Cap,,0,0,0,,als wie das {\c&H0000B7F5&}Neue.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:40.93,0:00:41.15,Cap,,0,0,0,,{\c&H0000B7F5&}Und{\c&H00FFFFFF&} da müssen wir
+Dialogue: 0,0:00:41.15,0:00:41.25,Cap,,0,0,0,,Und {\c&H0000B7F5&}da{\c&H00FFFFFF&} müssen wir
+Dialogue: 0,0:00:41.25,0:00:41.47,Cap,,0,0,0,,Und da {\c&H0000B7F5&}müssen{\c&H00FFFFFF&} wir
+Dialogue: 0,0:00:41.47,0:00:41.63,Cap,,0,0,0,,Und da müssen {\c&H0000B7F5&}wir{\c&H00FFFFFF&}
+Dialogue: 0,0:00:41.63,0:00:42.14,Cap,,0,0,0,,{\c&H0000B7F5&}durch.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:42.37,0:00:42.67,Cap,,0,0,0,,{\c&H0000B7F5&}Diese{\c&H00FFFFFF&} Zeit müssen
+Dialogue: 0,0:00:42.67,0:00:42.97,Cap,,0,0,0,,Diese {\c&H0000B7F5&}Zeit{\c&H00FFFFFF&} müssen
+Dialogue: 0,0:00:42.97,0:00:43.19,Cap,,0,0,0,,Diese Zeit {\c&H0000B7F5&}müssen{\c&H00FFFFFF&}
+Dialogue: 0,0:00:43.19,0:00:43.43,Cap,,0,0,0,,{\c&H0000B7F5&}wir{\c&H00FFFFFF&} überstehen,
+Dialogue: 0,0:00:43.43,0:00:43.81,Cap,,0,0,0,,wir {\c&H0000B7F5&}überstehen,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:43.81,0:00:44.29,Cap,,0,0,0,,{\c&H0000B7F5&}weil{\c&H00FFFFFF&} der Durchbruch,
+Dialogue: 0,0:00:44.29,0:00:44.53,Cap,,0,0,0,,weil {\c&H0000B7F5&}der{\c&H00FFFFFF&} Durchbruch,
+Dialogue: 0,0:00:44.53,0:00:45.45,Cap,,0,0,0,,weil der {\c&H0000B7F5&}Durchbruch,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:45.45,0:00:45.69,Cap,,0,0,0,,{\c&H0000B7F5&}der{\c&H00FFFFFF&} kommt definitiv.
+Dialogue: 0,0:00:45.69,0:00:45.89,Cap,,0,0,0,,der {\c&H0000B7F5&}kommt{\c&H00FFFFFF&} definitiv.
+Dialogue: 0,0:00:45.89,0:00:46.90,Cap,,0,0,0,,der kommt {\c&H0000B7F5&}definitiv.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:47.37,0:00:47.57,Cap,,0,0,0,,{\c&H0000B7F5&}Wer{\c&H00FFFFFF&} lang genug dabei
+Dialogue: 0,0:00:47.57,0:00:47.69,Cap,,0,0,0,,Wer {\c&H0000B7F5&}lang{\c&H00FFFFFF&} genug dabei
+Dialogue: 0,0:00:47.69,0:00:47.91,Cap,,0,0,0,,Wer lang {\c&H0000B7F5&}genug{\c&H00FFFFFF&} dabei
+Dialogue: 0,0:00:47.91,0:00:48.21,Cap,,0,0,0,,Wer lang genug {\c&H0000B7F5&}dabei{\c&H00FFFFFF&}
+Dialogue: 0,0:00:48.21,0:00:48.86,Cap,,0,0,0,,{\c&H0000B7F5&}bleibt,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:49.29,0:00:49.41,Cap,,0,0,0,,{\c&H0000B7F5&}der{\c&H00FFFFFF&} schafft das.
+Dialogue: 0,0:00:49.41,0:00:49.63,Cap,,0,0,0,,der {\c&H0000B7F5&}schafft{\c&H00FFFFFF&} das.
+Dialogue: 0,0:00:49.63,0:00:50.10,Cap,,0,0,0,,der schafft {\c&H0000B7F5&}das.{\c&H00FFFFFF&}
